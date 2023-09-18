@@ -1,4 +1,4 @@
-const accessKey = process.env.API_KEY;
+const accessKey = API_KEY;
 
 env:API_KEY:`${secrets.API_KEY}`
 
